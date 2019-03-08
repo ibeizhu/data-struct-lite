@@ -1,7 +1,7 @@
 {
   "name": "data-struct-lite",
   "description": "data struct lite",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "lib/index.js",
   "devDependencies": {
     "babel-core": "^6.26.3",

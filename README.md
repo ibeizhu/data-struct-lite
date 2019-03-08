@@ -1,20 +1,20 @@
-# data-struct
+# data-struct-lite
 
 data struct for more safe data
 
 ## Installation
 
 ```
-npm i @fm/data-struct -S
+npm i data-struct-lite -S
 ```
 
 ## Usage
 
 ```
 // in ES5
-const struct = require('@fm/data-struct');
+const struct = require('data-struct-lite');
 // in ES6
-// import struct,{types} from '@fm/data-struct';
+// import struct,{types} from 'data-struct-lite';
 
 const CarStruct = struct({
   id: types.number,
